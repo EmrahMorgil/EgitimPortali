@@ -1,0 +1,17 @@
+﻿using EgitimPortali.Core.Common;
+using EgitimPortali.Core.Enums;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EgitimPortali.Core.Entities
+{
+    public class UserCourse : BaseEntity
+    {
+        public Guid UserId { get; set; }
+        public Guid CourseId { get; set; }
+        public CourseStatus Status { get; set; }
+    }
+}

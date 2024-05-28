@@ -1,0 +1,12 @@
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Core\bin\Debug\net7.0\EgitimPortali.Core.deps.json
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Core\bin\Debug\net7.0\EgitimPortali.Core.dll
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Core\bin\Debug\net7.0\EgitimPortali.Core.pdb
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Core\obj\Debug\net7.0\EgitimPortali.Core.csproj.AssemblyReference.cache
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Core\obj\Debug\net7.0\EgitimPortali.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Core\obj\Debug\net7.0\EgitimPortali.Core.AssemblyInfoInputs.cache
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Core\obj\Debug\net7.0\EgitimPortali.Core.AssemblyInfo.cs
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Core\obj\Debug\net7.0\EgitimPortali.Core.csproj.CoreCompileInputs.cache
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Core\obj\Debug\net7.0\EgitimPortali.Core.dll
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Core\obj\Debug\net7.0\refint\EgitimPortali.Core.dll
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Core\obj\Debug\net7.0\EgitimPortali.Core.pdb
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Core\obj\Debug\net7.0\ref\EgitimPortali.Core.dll

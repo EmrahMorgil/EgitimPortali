@@ -1,0 +1,17 @@
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\bin\Debug\net7.0\EgitimPortali.Application.deps.json
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\bin\Debug\net7.0\EgitimPortali.Application.dll
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\bin\Debug\net7.0\EgitimPortali.Application.pdb
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\bin\Debug\net7.0\EgitimPortali.Core.dll
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\bin\Debug\net7.0\EgitimPortali.Shared.dll
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\bin\Debug\net7.0\EgitimPortali.Core.pdb
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\bin\Debug\net7.0\EgitimPortali.Shared.pdb
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\EgitimPortali.Application.csproj.AssemblyReference.cache
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\EgitimPortali.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\EgitimPortali.Application.AssemblyInfoInputs.cache
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\EgitimPortali.Application.AssemblyInfo.cs
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\EgitimPortali.Application.csproj.CoreCompileInputs.cache
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\EgitimPortali.Application.csproj.CopyComplete
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\EgitimPortali.Application.dll
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\refint\EgitimPortali.Application.dll
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\EgitimPortali.Application.pdb
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\ref\EgitimPortali.Application.dll
