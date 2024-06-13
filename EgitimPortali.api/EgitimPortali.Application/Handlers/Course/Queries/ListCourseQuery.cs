@@ -4,6 +4,7 @@ using EgitimPortali.Application.Dtos;
 using EgitimPortali.Application.Handlers.Course.Commands;
 using EgitimPortali.Application.Interfaces;
 using EgitimPortali.Application.Services;
+using EgitimPortali.Core.Enums;
 using FluentValidation;
 using MediatR;
 using Microsoft.AspNetCore.Http;

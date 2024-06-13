@@ -10,6 +10,6 @@ namespace EgitimPortali.Core.Entities
         public string Name { get; set; } = null!;
         public string Password { get; set; } = null!;
         public string Image { get; set; } = null!;
-        public string Role { get; set; } = null!;
+        public Role Role { get; set; }
     }
 }

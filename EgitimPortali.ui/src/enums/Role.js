@@ -1,6 +1,6 @@
 const Role = {
-    Instructor : "Instructor",
-    Student : "Student"
+    Instructor : 1,
+    Student : 2
 }
 
 export default Role;

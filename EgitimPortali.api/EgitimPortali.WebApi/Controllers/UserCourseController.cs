@@ -1,5 +1,6 @@
 ﻿using EgitimPortali.Application.Handlers.UserCourse.Commands;
 using EgitimPortali.Application.Handlers.UserCourse.Queries;
+using EgitimPortali.Core.Enums;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -17,19 +18,19 @@ namespace EgitimPortali.WebApi.Controllers
             _mediator = mediator;
         }
         [HttpPost("create")]
-        [Authorize(Roles = Application.Consts.Role.Student)]
+        [Authorize(Roles = nameof(Role.Student))]
         public async Task<ActionResult> Create(CreateUserCourseCommand command)
         {
             return Ok(await _mediator.Send(command));
         }
         [HttpPost("delete")]
-        [Authorize(Roles = Application.Consts.Role.Student)]
+        [Authorize(Roles = nameof(Role.Student))]
         public async Task<ActionResult> Delete(DeleteUserCourseCommand command)
         {
             return Ok(await _mediator.Send(command));
         }
         [HttpGet("list")]
-        [Authorize(Roles = Application.Consts.Role.Student)]
+        [Authorize(Roles = nameof(Role.Student))]
         public async Task<ActionResult> List([FromQuery]ListUserCourseQuery query)
         {
             return Ok(await _mediator.Send(query));
@@ -47,7 +48,7 @@ namespace EgitimPortali.WebApi.Controllers
             return Ok(await _mediator.Send(query));
         }
         [HttpGet("studentManagementList")]
-        [Authorize(Roles = Application.Consts.Role.Instructor)]
+        [Authorize(Roles = nameof(Role.Instructor))]
         public async Task<ActionResult> List([FromQuery]ListStudentManagementQuery query)
         {
             return Ok(await _mediator.Send(query));

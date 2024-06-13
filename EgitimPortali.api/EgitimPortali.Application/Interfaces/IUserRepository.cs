@@ -7,5 +7,6 @@ namespace EgitimPortali.Application.Interfaces
     {
         Task<DashboardInstructorDto> GetInstructorDashboard(Guid InstructorId);
         Task<DashboardStudentDto> GetStudentDashboard(Guid StudentId);
+        User GetUserByEmail(string Email);
     }
 }

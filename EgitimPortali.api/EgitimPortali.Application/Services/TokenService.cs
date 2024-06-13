@@ -1,4 +1,5 @@
 ﻿using EgitimPortali.Core.Entities;
+using EgitimPortali.Core.Enums;
 using EgitimPortali.Shared;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
@@ -17,7 +18,7 @@ namespace EgitimPortali.Application.Services
             {
                 new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
                 new Claim(JwtRegisteredClaimNames.Email, user.Email),
-                new Claim(ClaimTypes.Role, user.Role)
+                new Claim(ClaimTypes.Role, user.Role.ToString())
             };
 
             var expiry = DateTime.Now.AddDays(settings.ValidityPeriod);
@@ -37,7 +38,7 @@ namespace EgitimPortali.Application.Services
 
             var userId = token.Claims.FirstOrDefault(c => c.Type == ClaimTypes.NameIdentifier)?.Value;
             var email = token.Claims.FirstOrDefault(c => c.Type == JwtRegisteredClaimNames.Email)?.Value;
-            var role = token.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Role)?.Value;
+            var role = (Role)Enum.Parse(typeof(Role), token.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Role)?.Value!);
 
             return new DecodedTokenInfo
             {

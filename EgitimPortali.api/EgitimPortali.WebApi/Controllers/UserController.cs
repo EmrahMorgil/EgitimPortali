@@ -1,5 +1,6 @@
 ﻿using EgitimPortali.Application.Handlers.User.Commands;
 using EgitimPortali.Application.Handlers.User.Queries;
+using EgitimPortali.Core.Enums;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -41,13 +42,13 @@ namespace EgitimPortali.WebApi.Controllers
             return Ok(await _mediator.Send(query));
         }
         [HttpGet("student/dashboard")]
-        [Authorize(Roles = Application.Consts.Role.Student)]
+        [Authorize(Roles = nameof(Role.Student))]
         public async Task<ActionResult> StudentDashboard([FromQuery]DashboardStudentQuery query)
         {
             return Ok(await _mediator.Send(query));
         }
         [HttpGet("instructor/dashboard")]
-        [Authorize(Roles = Application.Consts.Role.Instructor)]
+        [Authorize(Roles = nameof(Role.Instructor))]
         public async Task<ActionResult> InstructorDashboard([FromQuery]DashboardInstructorQuery query)
         {
             return Ok(await _mediator.Send(query));

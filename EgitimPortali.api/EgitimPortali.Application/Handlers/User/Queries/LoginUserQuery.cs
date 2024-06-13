@@ -29,8 +29,7 @@ namespace EgitimPortali.Application.Handlers.User.Queries
 
             public async Task<BaseDataResponse<UserDto>> Handle(LoginUserQuery request, CancellationToken cancellationToken)
             {
-                var userList = await _userRepository.List();
-                var user = userList.FirstOrDefault(x=>x.Email == request.Email);
+                var user = _userRepository.GetUserByEmail(request.Email);
 
                 if (user != null)
                 {

@@ -31,9 +31,7 @@ namespace EgitimPortali.Application.Handlers.UserCourse.Queries
             {
                 var tokenInfo = TokenService.DecodeToken(_httpContextAccessor.HttpContext.Request.Headers["Authorization"]);
                 var userCourseDtoList = new List<UserCourseDto>();
-
-                var userCourseList = await _userCourseRepository.List();
-                var filteredUserCourseList = userCourseList.Where(x => x.UserId == tokenInfo.UserId && x.Status != CourseStatus.Discarded);
+                var filteredUserCourseList = _userCourseRepository.FilteredUserCourseList(tokenInfo.UserId, CourseStatus.Discarded);
 
                 foreach (var course in filteredUserCourseList)
                 {

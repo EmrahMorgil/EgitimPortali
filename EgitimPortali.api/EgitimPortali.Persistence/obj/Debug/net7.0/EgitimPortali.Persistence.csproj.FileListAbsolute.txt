@@ -13,9 +13,10 @@ C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Persistence\obj\Debug\net7.0\EgitimPortali.Persistence.AssemblyInfoInputs.cache
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Persistence\obj\Debug\net7.0\EgitimPortali.Persistence.AssemblyInfo.cs
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Persistence\obj\Debug\net7.0\EgitimPortali.Persistence.csproj.CoreCompileInputs.cache
-C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Persistence\obj\Debug\net7.0\EgitimPortali.Persistence.csproj.CopyComplete
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Persistence\obj\Debug\net7.0\EgitimPortali.Persistence.dll
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Persistence\obj\Debug\net7.0\refint\EgitimPortali.Persistence.dll
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Persistence\obj\Debug\net7.0\EgitimPortali.Persistence.pdb
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Persistence\obj\Debug\net7.0\EgitimPortali.Persistence.genruntimeconfig.cache
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Persistence\obj\Debug\net7.0\ref\EgitimPortali.Persistence.dll
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Persistence\obj\Debug\net7.0\EgitimPortali.Persistence.sourcelink.json
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Persistence\obj\Debug\net7.0\EgitimPo.8025094D.Up2Date

@@ -50,5 +50,9 @@ namespace EgitimPortali.Persistence.Repositories
 
             return dashboardDto;
         }
+        public User GetUserByEmail(string Email)
+        {
+            return _context.User.FirstOrDefault(x=>x.Email == Email);
+        }
     }
 }

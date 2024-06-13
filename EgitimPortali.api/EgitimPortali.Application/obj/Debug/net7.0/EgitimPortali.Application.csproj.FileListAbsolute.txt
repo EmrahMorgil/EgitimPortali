@@ -10,8 +10,9 @@ C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\EgitimPortali.Application.AssemblyInfoInputs.cache
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\EgitimPortali.Application.AssemblyInfo.cs
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\EgitimPortali.Application.csproj.CoreCompileInputs.cache
-C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\EgitimPortali.Application.csproj.CopyComplete
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\EgitimPortali.Application.dll
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\refint\EgitimPortali.Application.dll
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\EgitimPortali.Application.pdb
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\ref\EgitimPortali.Application.dll
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\EgitimPortali.Application.sourcelink.json
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Application\obj\Debug\net7.0\EgitimPo.534CF4F4.Up2Date

@@ -17,6 +17,11 @@ namespace EgitimPortali.Persistence.Repositories
             _dbSet = context.Set<UserCourse>();
         }
 
+        public List<UserCourse> FilteredUserCourseList(Guid UserId, CourseStatus CourseStatus)
+        {
+            return _context.UserCourse.Where(x=>x.UserId == UserId && x.Status != CourseStatus).ToList();
+        }
+
         public async Task<List<StudentManagementDto>> GetStudentManagementList(Guid InstructorId)
         {
             var userCourseDetails = await (from userCourse in _context.UserCourse

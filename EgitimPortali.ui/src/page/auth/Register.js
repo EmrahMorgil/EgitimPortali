@@ -25,7 +25,7 @@ const Register = () => {
       name: user.name,
       password: user.password,
       image: prepareImage,
-      role: user.role,
+      role: Number(user.role),
     };
 
     const response = await UserService.Create(req);
@@ -123,8 +123,8 @@ const Register = () => {
             <option value={0} className="disable">
               Role Seçiniz
             </option>
-            <option value={"Instructor"}>Eğitmen</option>
-            <option value={"Student"}>Öğrenci</option>
+            <option value={"1"}>Eğitmen</option>
+            <option value={"2"}>Öğrenci</option>
           </select>
         </div>
         <div className="form-outline mb-4 text-center">

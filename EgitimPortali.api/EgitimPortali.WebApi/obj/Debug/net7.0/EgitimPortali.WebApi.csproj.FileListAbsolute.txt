@@ -100,9 +100,10 @@ C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.WebApi\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.WebApi\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.WebApi\obj\Debug\net7.0\scopedcss\bundle\EgitimPortali.WebApi.styles.css
-C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.WebApi\obj\Debug\net7.0\EgitimPortali.WebApi.csproj.CopyComplete
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.WebApi\obj\Debug\net7.0\EgitimPortali.WebApi.dll
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.WebApi\obj\Debug\net7.0\refint\EgitimPortali.WebApi.dll
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.WebApi\obj\Debug\net7.0\EgitimPortali.WebApi.pdb
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.WebApi\obj\Debug\net7.0\EgitimPortali.WebApi.genruntimeconfig.cache
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.WebApi\obj\Debug\net7.0\ref\EgitimPortali.WebApi.dll
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.WebApi\obj\Debug\net7.0\EgitimPortali.WebApi.sourcelink.json
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.WebApi\obj\Debug\net7.0\EgitimPo.2D03F4CF.Up2Date

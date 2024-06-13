@@ -281,6 +281,42 @@
       "PackagePath": "staticwebassets\\docs\\1716918468930emrec.jpg"
     },
     {
+      "Id": "C:\\Users\\morgi\\OneDrive\\Masaüstü\\EgitimPortali\\EgitimPortali.api\\EgitimPortali.WebApi\\wwwroot\\docs\\1717437197590emo.jpg",
+      "PackagePath": "staticwebassets\\docs\\1717437197590emo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morgi\\OneDrive\\Masaüstü\\EgitimPortali\\EgitimPortali.api\\EgitimPortali.WebApi\\wwwroot\\docs\\17174372620471.png",
+      "PackagePath": "staticwebassets\\docs\\17174372620471.png"
+    },
+    {
+      "Id": "C:\\Users\\morgi\\OneDrive\\Masaüstü\\EgitimPortali\\EgitimPortali.api\\EgitimPortali.WebApi\\wwwroot\\docs\\1717437262080ReactApp-GoogleChrome2024-02-1323-51-33.mp4",
+      "PackagePath": "staticwebassets\\docs\\1717437262080ReactApp-GoogleChrome2024-02-1323-51-33.mp4"
+    },
+    {
+      "Id": "C:\\Users\\morgi\\OneDrive\\Masaüstü\\EgitimPortali\\EgitimPortali.api\\EgitimPortali.WebApi\\wwwroot\\docs\\1717437262233ReactApp-GoogleChrome2024-02-1323-51-33.mp4",
+      "PackagePath": "staticwebassets\\docs\\1717437262233ReactApp-GoogleChrome2024-02-1323-51-33.mp4"
+    },
+    {
+      "Id": "C:\\Users\\morgi\\OneDrive\\Masaüstü\\EgitimPortali\\EgitimPortali.api\\EgitimPortali.WebApi\\wwwroot\\docs\\171743726234031052024CV.pdf",
+      "PackagePath": "staticwebassets\\docs\\171743726234031052024CV.pdf"
+    },
+    {
+      "Id": "C:\\Users\\morgi\\OneDrive\\Masaüstü\\EgitimPortali\\EgitimPortali.api\\EgitimPortali.WebApi\\wwwroot\\docs\\1717437353984communication-683245_640.png",
+      "PackagePath": "staticwebassets\\docs\\1717437353984communication-683245_640.png"
+    },
+    {
+      "Id": "C:\\Users\\morgi\\OneDrive\\Masaüstü\\EgitimPortali\\EgitimPortali.api\\EgitimPortali.WebApi\\wwwroot\\docs\\1717437417899camper.jpg",
+      "PackagePath": "staticwebassets\\docs\\1717437417899camper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morgi\\OneDrive\\Masaüstü\\EgitimPortali\\EgitimPortali.api\\EgitimPortali.WebApi\\wwwroot\\docs\\1718308833648emo.jpg",
+      "PackagePath": "staticwebassets\\docs\\1718308833648emo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morgi\\OneDrive\\Masaüstü\\EgitimPortali\\EgitimPortali.api\\EgitimPortali.WebApi\\wwwroot\\docs\\1718309756048emo.jpg",
+      "PackagePath": "staticwebassets\\docs\\1718309756048emo.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EgitimPortali.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

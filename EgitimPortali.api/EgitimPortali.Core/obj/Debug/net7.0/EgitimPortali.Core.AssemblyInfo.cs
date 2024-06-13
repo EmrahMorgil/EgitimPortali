@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EgitimPortali.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3ef9333a2b918c1a423ded30839bd26ffd5765e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EgitimPortali.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EgitimPortali.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

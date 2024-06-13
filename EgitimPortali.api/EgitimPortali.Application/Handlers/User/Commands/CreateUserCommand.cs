@@ -5,6 +5,7 @@ using EgitimPortali.Application.Interfaces;
 using EgitimPortali.Application.Password;
 using EgitimPortali.Application.Response;
 using EgitimPortali.Application.Services;
+using EgitimPortali.Core.Enums;
 using FluentValidation;
 using MediatR;
 
@@ -16,7 +17,7 @@ namespace EgitimPortali.Application.Handlers.User.Commands
         public string Name { get; set; } = null!;
         public string Password { get; set; } = null!;
         public string Image { get; set; } = null!;
-        public string Role { get; set; } = null!;
+        public Role Role { get; set; }
 
         public class CreateUserCommandHandler : IRequestHandler<CreateUserCommand, BaseDataResponse<UserDto>>
         {
@@ -31,8 +32,7 @@ namespace EgitimPortali.Application.Handlers.User.Commands
 
             public async Task<BaseDataResponse<UserDto>> Handle(CreateUserCommand request, CancellationToken cancellationToken)
             {
-                var userList = await _userRepository.List();
-                var existUser = userList.FirstOrDefault(x => x.Email == request.Email);
+                var existUser = _userRepository.GetUserByEmail(request.Email);
 
                 if (existUser == null)
                 {

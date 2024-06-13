@@ -10,3 +10,4 @@ C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Shared\obj\Debug\net7.0\refint\EgitimPortali.Shared.dll
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Shared\obj\Debug\net7.0\EgitimPortali.Shared.pdb
 C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Shared\obj\Debug\net7.0\ref\EgitimPortali.Shared.dll
+C:\Users\morgi\OneDrive\Masaüstü\EgitimPortali\EgitimPortali.api\EgitimPortali.Shared\obj\Debug\net7.0\EgitimPortali.Shared.sourcelink.json

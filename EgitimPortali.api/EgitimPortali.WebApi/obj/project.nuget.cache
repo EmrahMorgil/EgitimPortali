@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7SJtlt7BUN9Ek+v/iDFa2z9XDbwvnCrthbub8XYcvV8viM5r7dhBJAydRqPE5o/0GD/sqv3Cp2v0bRCIqr1SLw==",
+  "dgSpecHash": "v14M83hQ4kg=",
   "success": true,
   "projectFilePath": "C:\\Users\\morgi\\OneDrive\\Masaüstü\\EgitimPortali\\EgitimPortali.api\\EgitimPortali.WebApi\\EgitimPortali.WebApi.csproj",
   "expectedPackageFiles": [
@@ -116,6 +116,16 @@
       "warningLevel": 1,
       "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 13.0.1 was resolved.",
       "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.Authentication.JwtBearer' 3.1.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-q7cg-43mg-qp69",
+      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
       "targetGraphs": [
         "net7.0"
       ]

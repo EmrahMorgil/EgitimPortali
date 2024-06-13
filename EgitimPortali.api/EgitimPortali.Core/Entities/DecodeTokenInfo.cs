@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EgitimPortali.Core.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,6 @@ namespace EgitimPortali.Core.Entities
     {
         public Guid UserId { get; set; }
         public string Email { get; set; } = null!;
-        public string Role { get; set; } = null!;
+        public Role Role { get; set; }
     }
 }

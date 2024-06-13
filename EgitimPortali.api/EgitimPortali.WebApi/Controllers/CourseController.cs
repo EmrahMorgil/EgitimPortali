@@ -1,5 +1,6 @@
 ﻿using EgitimPortali.Application.Handlers.Course.Commands;
 using EgitimPortali.Application.Handlers.Course.Queries;
+using EgitimPortali.Core.Enums;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -17,19 +18,19 @@ namespace EgitimPortali.WebApi.Controllers
             _mediator = mediator;
         }
         [HttpPost("create")]
-        [Authorize(Roles = Application.Consts.Role.Instructor)]
+        [Authorize(Roles = nameof(Role.Instructor))]
         public async Task<ActionResult> Create(CreateCourseCommand command)
         {
             return Ok(await _mediator.Send(command));
         }
         [HttpPost("delete")]
-        [Authorize(Roles = Application.Consts.Role.Instructor)]
+        [Authorize(Roles = nameof(Role.Instructor))]
         public async Task<ActionResult> Delete(DeleteCourseCommand command)
         {
             return Ok(await _mediator.Send(command));
         }
         [HttpPost("update")]
-        [Authorize(Roles = Application.Consts.Role.Instructor)]
+        [Authorize(Roles = nameof(Role.Instructor))]
         public async Task<ActionResult> Update(UpdateCourseCommand command)
         {
             return Ok(await _mediator.Send(command));
